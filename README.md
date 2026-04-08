@@ -17,4 +17,5 @@
 
 - GitHub: [https://github.com/dilipkumar2410](https://github.com/dilipkumar2410)
 - LinkedIn: [https://linkedin.com/in/dilipkumar2410](https://linkedin.com/in/dilipkumar2410)
-- PhoneNo: [+91 9500691588](https://wa.me/919500691588)
+- Email: [dilipkumar.coder@gmail.com](mailto:dilipkumar.coder@gmail.com)
+- Phone: [+91 9500691588](https://wa.me/919500691588)
